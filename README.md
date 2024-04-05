@@ -1,3 +1,7 @@
+![102007940-19d68080-3d53-11eb-8518-d681586666e6](https://github.com/KSKushal123/EncrypC/assets/133742980/29331967-f187-4d1f-b72b-046f65e17c6c)
+![103018817-d0184200-456b-11eb-8fd2-11893c3173cd](https://github.com/KSKushal123/EncrypC/assets/133742980/30fde9f4-d6a5-44a3-9673-8b824ba9a0cb)
+![103018827-d1e20580-456b-11eb-8503-173356c1cde9](https://github.com/KSKushal123/EncrypC/assets/133742980/8534348d-518a-446f-9050-517442ee4c45)
+
 ## Tech Stack Used:
 * Python3
 * Tkinter for GUI (Inbuilt)
