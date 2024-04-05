@@ -617,8 +617,8 @@ Please Enter an Encrypted File to Decrypt.""",
         messagebox.showinfo(
             "EncrypC v1.2.0",
             """EncrypC is a File Encryption Tool based on AES Algorithm. 
-Managed by Dhruv Panchal.
-https://github.com/dhhruv""",
+Managed by KSKushal123.
+https://github.com/KSKushal123""",
         )
 
 
