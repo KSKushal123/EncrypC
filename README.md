@@ -15,12 +15,12 @@ pip install pycryptodomex
 ## Steps to follow
 ```windows shell
 * cd Desktop
-* git clone https://github.com/KSKushal123/EncrypC.git
+* git clone https://github.com/KSKushal123/EncrypDcryp.git
 * ls
 * cd EncrypC
 * ls
-* python install setup.py
-* python install Encrypc.py
+* python setup.py
+* python Encrypc.py
 ```
 ## Tutorial to Encrypt/Decrypt Files:
 1. Open the Application and Click the SELECT FILE button to select your file e.g. "mydoc.pdf" (OR You can add path manually).
