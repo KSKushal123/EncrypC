@@ -15,7 +15,7 @@ pip install pycryptodomex
 ## Steps to follow
 ```windows shell
 * cd Desktop
-* git clone https://github.com/KSKushal123/EncrypDcryp.git
+* git clone https://github.com/KSKushal123/File-EncrypC.git
 * ls
 * cd EncrypC
 * ls
